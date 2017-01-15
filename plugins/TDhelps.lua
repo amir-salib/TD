@@ -1,7 +1,7 @@
 local function run(msg, matches)
 local telediamondsudo = [[
 ➖➖➖➖➖➖➖
-》Sudo Help
+》Sudo Help.
 》for TeleDiamon
 ➖➖➖➖➖➖➖
 💢!add
